@@ -21,7 +21,7 @@ bl_info = {
 "warning": "",
 "tracker_url": "https://github.com/BD-Review/test-not_an_addon/issues",
 "endpoint_url": "https://raw.githubusercontent.com/BD-Review/test-not_an_addon/main/endpoint.json",
-"category": "General"
+"category": "Generic"
 }
 
 
